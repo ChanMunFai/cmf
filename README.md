@@ -5,7 +5,7 @@ Author : Chan Mun Fai
 
 >These functions along with other metrics, are used to construct a systematic and comprehensive framework in evaluating the quality of synthetic datasets and different synthesis methods. 
 
-For more details, please refer to [Comparative Metrics Framework in R to evaluate the performance of Synthetic Data](https://github.com/MUNFAI15/DiffPriv/blob/master/comparative%20metrics%20framework.pdf) 
+For more details, please refer to [Comparative Metrics Framework in R to evaluate the performance of Synthetic Data](https://github.com/MUNFAI15/DiffPriv/blob/master/comparative%20metrics%20framework.pdf) or to [DiffPriv](https://github.com/MUNFAI15/DiffPriv).
 
 ### Install cmf 
 The current development version can be installed from source using devtools.

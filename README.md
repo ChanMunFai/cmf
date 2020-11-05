@@ -36,3 +36,8 @@ ROC_indiv(df, synthpop_df, "disp")
 ROC_score(df, synthpop_df)
 ROC_numeric(df, synthpop_df, "disp", y=2)
 ```
+## References
+
+Taub, J., Elliot, M., Pampaka, M., &amp; Smith, D. (2018). Differential Correct Attribution Probability for Synthetic Data: An Exploration. Privacy in Statistical Databases Lecture Notes in Computer Science, 122-137. doi:10.1007/978-3-319-99771-1_9
+
+Taub, J., Elliot, M., & Raab, G. (2019). Creating the Best Risk-Utility Profile : The Synthetic Data Challenge.

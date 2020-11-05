@@ -1,6 +1,6 @@
 # Comparative Metrics Framework (cmf) in R to evaluate the performance of synthetic data. 
 
-*cmf* provides the Ratio of Counts(ROC) function and the Differential Correct Attribution Probability(DCAP). 
+**cmf** provides the Ratio of Counts(ROC) function and the Differential Correct Attribution Probability(DCAP). 
 
 >These functions along with other metrics, are used to construct a systematic and comprehensive framework in evaluating the quality of synthetic datasets and different synthesis methods. 
 
@@ -14,7 +14,7 @@ devtools::install_github("MUNFAI15/cmf")
 ```
 
 ### Usage Examples 
-The following script demonstrates how to use the functions in *cmf*. We will use the package **synthpop** to generate synthetic data using the mtcars dataset. 
+The following script demonstrates how to use the functions in **cmf**. We will use the package **synthpop** to generate synthetic data using the mtcars dataset. 
 
 ```bash
 library(cmf)

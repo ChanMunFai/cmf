@@ -4,4 +4,4 @@ cmf provides the Ratio of Counts(ROC) function and the Differential Correct Attr
 
 >These functions along with other metrics, are used to construct a systematic and comprehensive framework in evaluating the quality of synthetic datasets and different synthesis methods. 
 
-For more details, please refer to [Comparative Metrics Framework in R to evaluate the performance of Synthetic Data](comparative metrics framework.pdf) 
+For more details, please refer to [Comparative Metrics Framework in R to evaluate the performance of Synthetic Data](chttps://github.com/MUNFAI15/DiffPriv/blob/master/comparative%20metrics%20framework.pdf) 

@@ -1,4 +1,5 @@
 # Comparative Metrics Framework (cmf) in R to evaluate the performance of synthetic data. 
+Author : Chan Mun Fai 
 
 **cmf** provides the Ratio of Counts(ROC) function and the Differential Correct Attribution Probability(DCAP). 
 

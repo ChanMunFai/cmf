@@ -7,6 +7,8 @@ Author : Chan Mun Fai
 
 For more details and usage examples on the other metrics, please refer to [Comparative Metrics Framework in R to evaluate the performance of Synthetic Data](https://github.com/MUNFAI15/DiffPriv).
 
+All documentation can be found in the code itself. 
+
 ### Install cmf 
 The current development version can be installed from source using devtools.
 

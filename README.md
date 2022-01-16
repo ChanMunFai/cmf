@@ -13,7 +13,7 @@ All documentation can be found in the code itself.
 The current development version can be installed from source using devtools.
 
 ```bash
-devtools::install_github("MUNFAI15/cmf")
+devtools::install_github("ChanMunFai/cmf")
 ```
 
 ### Usage Examples 
